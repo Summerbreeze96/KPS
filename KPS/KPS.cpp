@@ -13,7 +13,7 @@ int main()
 	int voitto = 0;
 
 	cout << "Welcome" << endl;
-	cout << "How many rounds do you want to play" << endl;
+	cout << "How many rounds do you want to play :)" << endl;
 	cin >> kierrokset;
 
 	for (int i = 0; i < kierrokset; i++)
