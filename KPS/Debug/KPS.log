@@ -1,0 +1,4 @@
+﻿  KPS.cpp
+c:\users\suvivik\desktop\kps_new\kps\kps\kps\kps.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KPS.vcxproj -> C:\Users\SuviVik\Desktop\KPS_new\KPS\KPS\Debug\KPS.exe
+  KPS.vcxproj -> C:\Users\SuviVik\Desktop\KPS_new\KPS\KPS\Debug\KPS.pdb (Partial PDB)

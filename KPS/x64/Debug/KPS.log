@@ -1,0 +1,4 @@
+﻿  KPS.cpp
+c:\users\suvi\desktop\visualstudio-20160930t143502z\visualstudio\kps_new\kps\kps\kps\kps.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KPS.vcxproj -> C:\Users\Suvi\Desktop\Visualstudio-20160930T143502Z\Visualstudio\KPS_new\KPS\KPS\x64\Debug\KPS.exe
+  KPS.vcxproj -> C:\Users\Suvi\Desktop\Visualstudio-20160930T143502Z\Visualstudio\KPS_new\KPS\KPS\x64\Debug\KPS.pdb (Partial PDB)
